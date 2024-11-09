@@ -7,11 +7,14 @@
 - **Real-Time News Updates**: Automatically fetches and displays the latest headlines as they’re published.
 - **Homepage for Headlines**: A dedicated homepage that showcases the latest headlines from all categories.
 - **Category-Based News**: Explore news across various interests, such as:
+  
   - Travel
   - Sports
   - Entertainment
   - Science
   - And more…
+ 
+    
 - **Country-Specific News**: Filter news by country for a more localized news experience.
 - **Dedicated Article Pages**: Each news article has its own page, providing the full story and a streamlined reading experience.
 - **Commenting Feature**: Readers can add comments to articles and read others' thoughts, fostering a community around current events.
