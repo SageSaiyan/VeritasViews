@@ -26,6 +26,8 @@
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **API**: NewsAPI for real-time news data
 
+Link - https://sagesaiyan.github.io/VeritasViews/
+
 ---
 
 **VeritasViews** brings you closer to the world’s stories, tailored to your interests and accessible from any device.
