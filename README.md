@@ -2,6 +2,8 @@
 
 **VeritasViews** is a responsive news website built with HTML, CSS, JavaScript, and Bootstrap, delivering the latest news and stories from around the world. Powered by the **NewsAPI**, VeritasViews provides real-time updates across multiple categories, catering to readers' diverse interests.
 
+Watch the complete demo - https://youtu.be/5U_pXgcdYug
+
 ## Features
 
 - **Real-Time News Updates**: Automatically fetches and displays the latest headlines as they’re published.
